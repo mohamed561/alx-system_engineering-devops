@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello if only ls -l hello = -rw-rw-r-- 1 guillaume julien      23 Sep 20 14:25 hello
+sudo chown betty hello if only ls -l hello, usr=guillaume
