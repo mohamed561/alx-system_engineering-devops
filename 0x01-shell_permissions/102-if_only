@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello if only ls -l hello, usr=guillaume
+chown --from=guillaume betty hello
