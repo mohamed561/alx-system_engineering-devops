@@ -1,4 +1,6 @@
 Description of what each script do :
-- The first Script : This Script prints the absolute path name of the current working directory.
-- The second Script : This Script display the contents list of the current directory.
-- more to come, wait
+- 0-current_working_directory : This Script prints the absolute path name of the current working directory.
+- 1-listit : This Script display the contents list of the current directory.
+- 2-bring_me_home : a script that changes the working directory to the user’s home directory.
+- 3-listfiles : Display current directory contents in a long format
+- 4-listmorefiles
